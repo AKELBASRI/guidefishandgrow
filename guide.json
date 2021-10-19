@@ -4,9 +4,9 @@
       {
         "NetworkAds": "applovin",
  		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-5646335179199384/1039336737",
+        "InterstitialAdmob": "ca-app-pub-5646335179199384/7926171100",
+        "NativeAdmob": "ca-app-pub-5646335179199384/2673844423",
 	      
 	"NativeApplovin":"12b020870590b328",
 	"BannerApplovin":"454a6866ec340fe4",
